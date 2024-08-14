@@ -2,14 +2,14 @@ I'm Liam Hjalmarsson. I have a Bachelor’s degree in Media Technology, and I’
 I’m do full-stack, but my passion is with the frontend. I’m all about user-friendly and visually appealing interfaces that make technology easy and enjoyable to use.
 
 
-## 🌐 Socials:
+## 🌐 Socials:z
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamhjalmarsson) 
 
 # 💻 Tech Stack:
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
-<div align="center" display="flex" gap="1rem">  
+<div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
