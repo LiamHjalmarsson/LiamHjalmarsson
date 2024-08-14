@@ -10,8 +10,3 @@ I’m do full-stack, but my passion is with the frontend. I’m all about user-f
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=liamhjalmarsson&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=liamhjalmarsson&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamhjalmarsson&show_icons=true&locale=en&layout=compact" alt="liamhjalmarsson" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liamhjalmarsson&" alt="liamhjalmarsson" /></p>
