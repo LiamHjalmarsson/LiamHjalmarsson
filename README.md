@@ -6,6 +6,7 @@ I’m do full-stack, but my passion is with the frontend. I’m all about user-f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamhjalmarsson) 
 
 # 💻 Tech Stack:
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -17,7 +18,6 @@ I’m do full-stack, but my passion is with the frontend. I’m all about user-f
 </div>
 
 </td><td valign="top" width="33%">
-
 
 ### Backend  
 <div align="center">  
@@ -39,6 +39,8 @@ I’m do full-stack, but my passion is with the frontend. I’m all about user-f
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
+
+</td></tr></table>  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=liamhjalmarsson&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=liamhjalmarsson&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
