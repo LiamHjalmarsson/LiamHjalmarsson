@@ -2,10 +2,10 @@ I'm Liam Hjalmarsson. I have a Bachelor’s degree in Media Technology, and I’
 I’m do full-stack, but my passion is with the frontend. I’m all about user-friendly and visually appealing interfaces that make technology easy and enjoyable to use.
 
 
-## 🌐 Socials:z
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamhjalmarsson) 
 
-# 💻 Tech Stack:
+# 💻 My Tech Stack:
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
