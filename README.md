@@ -20,7 +20,6 @@ I’m do full-stack, but my passion is with the frontend. I’m all about user-f
 <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 # Backend
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" height="50" /></a>  
