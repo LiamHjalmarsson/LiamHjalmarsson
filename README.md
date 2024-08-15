@@ -15,7 +15,7 @@ I’m do full-stack, but my passion is with the frontend. I’m all about user-f
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="50" /></a>  
-<a href="https://www.svelte.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-sveltejs-a-modern-ui-framework-logo-shadow-tal-revivo.png" alt="Svelte" height="50" /></a>  
+<a href="https://www.svelte.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/svelte.png" alt="Svelte" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" height="50" /></a>  
 </div>
