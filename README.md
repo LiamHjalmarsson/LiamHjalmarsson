@@ -6,10 +6,10 @@ I’m do full-stack, but my passion is with the frontend. I’m all about user-f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamhjalmarsson) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:liam.hjalmarssons@gmail.com)
 
-## 💻 My Tech Stack:
+# 💻 My Tech Stack:
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+# Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="50" /></a>  
@@ -26,7 +26,7 @@ I’m do full-stack, but my passion is with the frontend. I’m all about user-f
 <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/1200px-Expressjs.png" alt="Express.js" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel" height="50" /></a>  
 </div>
   
 </td><td valign="top" width="33%">
