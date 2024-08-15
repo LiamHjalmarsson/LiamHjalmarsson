@@ -11,13 +11,13 @@ I’m do full-stack, but my passion is with the frontend. I’m all about user-f
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.svelte.com/" target="_blank"><img style="margin: 10px" src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/800px-Svelte_Logo.svg.png" alt="Svelte" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="50" /></a>  
+<a href="https://www.svelte.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-sveltejs-a-modern-ui-framework-logo-shadow-tal-revivo.png" alt="Svelte" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
