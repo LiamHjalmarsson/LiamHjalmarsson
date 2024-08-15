@@ -4,6 +4,7 @@ I’m do full-stack, but my passion is with the frontend. I’m all about user-f
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamhjalmarsson) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:liam.hjalmarssons@gmail.com)
 
 # 💻 My Tech Stack:
 <table><tr><td valign="top" width="33%">
@@ -37,5 +38,8 @@ Tools & Other Skills
 </div>
 </td></tr></table>  
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=liamhjalmarsson&theme=dark&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=liamhjalmarsson&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamhjalmarsson&show_icons=true&locale=en&layout=compact" alt="liamhjalmarsson" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=liamhjalmarsson&" alt="liamhjalmarsson" />
+</div>
