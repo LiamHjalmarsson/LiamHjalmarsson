@@ -3,13 +3,11 @@ I'm **Liam Hjalmarsson**, a passionate **developer** based in **Sweden** with a 
 
 I thrive on **continuous learning**, always exploring new **languages, frameworks, and tools** to enhance my skill set. Whether it’s **designing intuitive UIs**, **optimizing performance**, or **experimenting**, I love building seamless and userfreildly digital experiences.  
 
----
 
 # ✉️ Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamhjalmarsson)  
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:liam.hjalmarssons@gmail.com)  
 
----
 
 # 💻 My Tech Stack  
 
@@ -32,8 +30,6 @@ I thrive on **continuous learning**, always exploring new **languages, framework
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
----
 
 # 📊 GitHub Stats  
 <div align="center">
