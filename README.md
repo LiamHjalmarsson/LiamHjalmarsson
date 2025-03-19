@@ -45,30 +45,9 @@ I thrive on **continuous learning**, always exploring new **languages, framework
 ---
 
 # 📊 GitHub Stats  
-
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamhjalmarsson&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <a href="https://git.io/streak-stats">
     <img width="50%" src="https://streak-stats.demolab.com?user=liamhjalmarsson&theme=transparent" alt="GitHub Streak" />
   </a>
 </div>
-
----
-
-### 🔥 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=liamhjalmarsson&theme=github)
-
----
-
-### 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=liamhjalmarsson&theme=onestar&column=7)
-
----
-
-### 🚀 GitHub Metrics  
-<img src="https://github-readme-stats.vercel.app/api?username=liamhjalmarsson&show_icons=true&theme=transparent" alt="GitHub Stats" />
-
----
-
-### 👀 Profile Views  
-![](https://komarev.com/ghpvc/?username=liamhjalmarsson&color=blue&style=flat)
