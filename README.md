@@ -1,7 +1,7 @@
 # 👋 About Me  
-I'm **Liam Hjalmarsson**, a passionate **full-stack developer** based in **Sweden** with a **Bachelor’s degree in Media Technology**. While I enjoy working across the stack, my true passion lies in the **frontend**, where I craft user-friendly and visually appealing interfaces that make technology more accessible and enjoyable.  
+I'm **Liam Hjalmarsson**, a passionate **developer** based in **Sweden** with a **Bachelor’s degree in Media Technology**. While I enjoy working across the stack, my true passion lies in the **frontend**, where I craft user-friendly and visually appealing interfaces that make technology more accessible and enjoyable.  
 
-I thrive on **continuous learning**, always exploring new **languages, frameworks, and tools** to enhance my skill set. Whether it’s **designing intuitive UIs**, **optimizing performance**, or **experimenting with emerging technologies**, I love building seamless digital experiences.  
+I thrive on **continuous learning**, always exploring new **languages, frameworks, and tools** to enhance my skill set. Whether it’s **designing intuitive UIs**, **optimizing performance**, or **experimenting**, I love building seamless and userfreildly digital experiences.  
 
 ---
 
@@ -11,7 +11,6 @@ I thrive on **continuous learning**, always exploring new **languages, framework
 - ⚡ **Full-Stack Capabilities:** Proficient in **Node.js, PHP (Laravel), and databases (MySQL & MongoDB)**, allowing me to build complete applications from frontend to backend.  
 - 🎨 **UI/UX Enthusiast:** I use **Figma & Adobe XD** to bring ideas to life before turning them into responsive, interactive web applications.  
 - 🔧 **Performance Optimization:** I focus on **clean code, best practices, and speed optimization** to ensure smooth user experiences.  
-- 🌍 **Open-Source Contributor:** I love sharing knowledge and contributing to the **developer community** through **open-source projects**.  
 
 ---
 
@@ -49,7 +48,6 @@ I thrive on **continuous learning**, always exploring new **languages, framework
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamhjalmarsson&show_icons=true&locale=en&layout=compact" alt="liamhjalmarsson" />
-  <a href="https://git.io/streak-stats">
-    <img width="50%" src="https://streak-stats.demolab.com?user=liamhjalmarsson&theme=transparent" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=liamhjalmarsson" alt="GitHub Streak" /></a>
+
 </div>
