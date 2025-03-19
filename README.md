@@ -5,15 +5,6 @@ I thrive on **continuous learning**, always exploring new **languages, framework
 
 ---
 
-## 🚀 More About Me  
-
-- 💡 **Passionate about Frontend:** I love working with **React, Vue, and Svelte**, focusing on **design systems, animations, and UX/UI improvements**.  
-- ⚡ **Full-Stack Capabilities:** Proficient in **Node.js, PHP (Laravel), and databases (MySQL & MongoDB)**, allowing me to build complete applications from frontend to backend.  
-- 🎨 **UI/UX Enthusiast:** I use **Figma & Adobe XD** to bring ideas to life before turning them into responsive, interactive web applications.  
-- 🔧 **Performance Optimization:** I focus on **clean code, best practices, and speed optimization** to ensure smooth user experiences.  
-
----
-
 # ✉️ Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamhjalmarsson)  
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:liam.hjalmarssons@gmail.com)  
