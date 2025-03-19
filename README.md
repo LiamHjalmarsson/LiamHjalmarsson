@@ -1,11 +1,27 @@
-I'm Liam Hjalmarsson. I have a Bachelor’s degree in Media Technology, and I’m based in Sweden. I’m passionate about development and love continuously learning new languages, frameworks, and other tools.  
-I do full-stack, but my passion is with the frontend. I’m all about user-friendly and visually appealing interfaces that make technology easy and enjoyable to use.  
+# 👋 About Me  
+I'm **Liam Hjalmarsson**, a passionate **full-stack developer** based in **Sweden** with a **Bachelor’s degree in Media Technology**. While I enjoy working across the stack, my true passion lies in the **frontend**, where I craft user-friendly and visually appealing interfaces that make technology more accessible and enjoyable.  
 
-# ✉️ Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamhjalmarsson) 
+I thrive on **continuous learning**, always exploring new **languages, frameworks, and tools** to enhance my skill set. Whether it’s **designing intuitive UIs**, **optimizing performance**, or **experimenting with emerging technologies**, I love building seamless digital experiences.  
+
+---
+
+## 🚀 More About Me  
+
+- 💡 **Passionate about Frontend:** I love working with **React, Vue, and Svelte**, focusing on **design systems, animations, and UX/UI improvements**.  
+- ⚡ **Full-Stack Capabilities:** Proficient in **Node.js, PHP (Laravel), and databases (MySQL & MongoDB)**, allowing me to build complete applications from frontend to backend.  
+- 🎨 **UI/UX Enthusiast:** I use **Figma & Adobe XD** to bring ideas to life before turning them into responsive, interactive web applications.  
+- 🔧 **Performance Optimization:** I focus on **clean code, best practices, and speed optimization** to ensure smooth user experiences.  
+- 🌍 **Open-Source Contributor:** I love sharing knowledge and contributing to the **developer community** through **open-source projects**.  
+
+---
+
+# ✉️ Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liamhjalmarsson)  
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:liam.hjalmarssons@gmail.com)  
 
-# 💻 My Tech Stack:
+---
+
+# 💻 My Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -27,11 +43,13 @@ I do full-stack, but my passion is with the frontend. I’m all about user-frien
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
+
+# 📊 GitHub Stats  
+
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamhjalmarsson&show_icons=true&locale=en&layout=compact" alt="liamhjalmarsson" />
+  <a href="https://git.io/streak-stats">
+    <img width="50%" src="https://streak-stats.demolab.com?user=liamhjalmarsson&theme=transparent" alt="GitHub Streak" />
+  </a>
 </div>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=liamhjalmarsson&theme=transparent" alt="GitHub Streak Stats" />
-</a>
-
