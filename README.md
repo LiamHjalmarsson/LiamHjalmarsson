@@ -47,7 +47,5 @@ I thrive on **continuous learning**, always exploring new **languages, framework
 # 📊 GitHub Stats  
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamhjalmarsson&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-<a href="https://git.io/streak-stats">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=liamhjalmarsson&theme=transparent" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=liamhjalmarsson)](https://git.io/streak-stats)
 </div>
