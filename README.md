@@ -29,5 +29,5 @@ I do full-stack, but my passion is with the frontend. I’m all about user-frien
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamhjalmarsson&show_icons=true&locale=en&layout=compact" alt="liamhjalmarsson" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=liamhjalmarsson&" alt="liamhjalmarsson" />
+  <img width="50%" src="https://github-readme-streak-stats.vercel.app?user=liamhjalmarsson&theme=transparent" alt="GitHub Streak" />
 </div>
