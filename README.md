@@ -30,9 +30,3 @@ I thrive on **continuous learning**, always exploring new **languages, framework
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
-# 📊 GitHub Stats  
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=liamhjalmarsson&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-[![GitHub Streak](https://streak-stats.demolab.com?user=liamhjalmarsson)](https://git.io/streak-stats)
-</div>
